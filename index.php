@@ -9,48 +9,48 @@
   <body>
     <div class = "container"
     <h1>Home Page!</h1>
-      <a href="Accordian.html">Accordion Page</a>
+      <a href="Accordian.html">JavaScript Example 1</a>
     </h1>
-      <a href="Alerts.html">Alert Page</a>
+      <a href="Alerts.html">JavaScript Example 2</a>
     </h1>
-      <a href="Table.html">Table Page</a>
+      <a href="Table.html">JavaScript Example 3</a>
     </h1>
-      <a href="Cards.html">Cards Page</a>
+      <a href="Cards.html">JavaScript Example 4</a>
     </h1>
-      <a href="Buttons.html">Buttons Page</a>
+      <a href="Buttons.html">JavaScript Example 5</a>
     </h1>
       </div>
     <table class="table">
   <thead>
     <tr>
-      <th scope="col">#</th>
+
       <th scope="col">Name</th>
       <th scope="col">Link to Page</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Page 1</th>
+
       <td>Accordion Page</td>
       <td> <a href="Accordian.html">Accordion Page</a> </td>
     </tr>
     <tr>
-      <th scope="row">Page 2</th>
+
       <td> Alerts Page</td>
       <td> <a href="Alerts.html">Alert Page</a></td>
     </tr>
     <tr>
-      <th scope="row">Page 3</th>
+     
       <td>Table Page</td>
       <td> <a href="Table.html">Table Page</a> </td>
     </tr>
      <tr>
-      <th scope="row">Page 4</th>
+     
       <td> Cards Page</td>
       <td>  <a href="Cards.html">Cards Page</a> </td>
     </tr>
      <tr>
-      <th scope="row">Page 5</th>
+ 
       <td> Button Page</td>
       <td>  <a href="Buttons.html">Buttons Page</a> </td>
     </tr>
